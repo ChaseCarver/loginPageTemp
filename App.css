@@ -1,0 +1,35 @@
+/* *{margin:0;
+padding:0;
+border: 1px red dotted;
+} */
+/* .flex{
+  display:flex;
+  justify-content: space-around;
+  height:100vh;
+  align-items: center;
+}
+.create{
+  border: 1px red dotted
+}
+.login{
+
+  border: 1px red dotted
+}
+.header{
+  position: absolute;
+  display: flex;
+  justify-content: flex-end;
+  height: 9vh;
+  width: 100%;
+}
+.errorMessage{
+  color:red;
+  font-size: 0.9em;
+} */
+/* .background{
+  background-image: url('data:image/svg+xml,<svg id="visual" viewBox="0 0 1920 1080" height="100vh" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><path d="M1626 1080L1625.5 1060C1625 1040 1624 1000 1611.2 960C1598.3 920 1573.7 880 1578.8 840C1584 800 1619 760 1644.8 720C1670.7 680 1687.3 640 1682.8 600C1678.3 560 1652.7 520 1637.3 480C1622 440 1617 400 1630.5 360C1644 320 1676 280 1685.2 240C1694.3 200 1680.7 160 1660.3 120C1640 80 1613 40 1599.5 20L1586 0L1920 0L1920 20C1920 40 1920 80 1920 120C1920 160 1920 200 1920 240C1920 280 1920 320 1920 360C1920 400 1920 440 1920 480C1920 520 1920 560 1920 600C1920 640 1920 680 1920 720C1920 760 1920 800 1920 840C1920 880 1920 920 1920 960C1920 1000 1920 1040 1920 1060L1920 1080Z" fill="%230066FF" stroke-linecap="round" stroke-linejoin="miter"></path></svg>');
+  transition: 1s background-image linear;
+}
+.background:hover{
+  background-image: url('data:image/svg+xml,%3Csvg id="visual" viewBox="0 0 960 540" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1"%3E%3Crect x="0" y="0" width="960"  height="540" fill="%230066FF"%3E%3C/rect%3E%3Cpath d="M213 0L224.7 14.3C236.3 28.7 259.7 57.3 263 85.8C266.3 114.3 249.7 142.7 237.7 171.2C225.7 199.7 218.3 228.3 226 257C233.7 285.7 256.3 314.3 255.7 343C255 371.7 231 400.3 219.2 428.8C207.3 457.3 207.7 485.7 215.3 514.2C223 542.7 238 571.3 245.5 585.7L253 600L0 600L0 585.7C0 571.3 0 542.7 0 514.2C0 485.7 0 457.3 0 428.8C0 400.3 0 371.7 0 343C0 314.3 0 285.7 0 257C0 228.3 0 199.7 0 171.2C0 142.7 0 114.3 0 85.8C0 57.3 0 28.7 0 14.3L0 0Z" fill="%23002233" stroke-linecap="round" stroke-linejoin="miter"%3E%3C/path%3E%3C/svg%3E');
+} */
